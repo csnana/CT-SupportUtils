@@ -1,3 +1,5 @@
+A cloned project from Digital.ai community repo - made some minor changes and reloaded as new project under this repo. 
+
 ## Digital.ai Continuous Testing - Support  Utilities
 
 Digital.ai AI-Powered Self-Healing uses AI techniques to understand and repair element mismatches autonomously without human intervention.
