@@ -1,4 +1,4 @@
-A cloned project from Digital.ai community repo - made some minor changes and reloaded as new project under this repo. 
+A cloned project from Digital.ai community repo - made some minor changes and uploaded as new project under this repo. 
 
 ## Digital.ai Continuous Testing - Support  Utilities
 
